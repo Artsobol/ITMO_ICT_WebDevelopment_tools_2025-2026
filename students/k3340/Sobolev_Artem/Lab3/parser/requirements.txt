@@ -1,0 +1,6 @@
+asyncpg
+beautifulsoup4
+fastapi
+pydantic
+requests
+uvicorn
